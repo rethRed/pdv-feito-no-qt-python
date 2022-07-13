@@ -1,9 +1,6 @@
 # pdv-feito-no-qt-python
 - Sistema pdv completo. 
 
-esse sistema foi construido em python quando eu estava  começando a Engatinhar no qt e no python, 
-eu poderia ter feito no c++ , mas eu achei que no python seria mais facil de fazer. 
-já que eu estava começando a com o python e o qt, o codigo  foi construido em uma base ruim.
-Se Você ver o  codigo fonte,  o codigo fonte esta horivel e confuso, mas ao  longo de mais de 220 H trabalhando nesse projeto,
-eu tive um crescimento profissional muito grande. esse projeto começou a ser construido em 11/2021, 
-de lá para cá eu conserteza aprendi o que fazer de melhor e o que não fazer, mas o Importante é que funciona.
+Quando construi esse sistema, estava começando a utilizar Python e Qt. Comecei a codar em Python ao em vez de C++ por pura curiosidade, e esse repositório foi o que mais trabalhei usando Python. O código não foi bem desenvolvido até então, mas não pretendo continuar esse projeto que já dei como terminado.
+
+Foram 220h ao decorrer desse projeto desde 11/2021, então foi um grande aprendizado que poderei ultilizar futuramente e quem sabe em projetos profissionais.
